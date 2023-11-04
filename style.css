@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.name-container {
+    position: relative;
+    text-align: center;
+}
+
+.name-container img {
+    width: 150px; /* Adjust as needed */
+    border: 2px solid neonblue; /* Change to your desired border color */
+    border-radius: 50%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 0;
+}
+
+h2 {
+    color: neonblue;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project a {
+    color: neonblue;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.contact-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.contact-links a {
+    color: neonblue;
+    text-decoration: none;
+}
